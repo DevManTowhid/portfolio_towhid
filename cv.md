@@ -46,7 +46,7 @@ BSc candidate in **Electrical and Computer Engineering** at Rajshahi University 
 **[GitHub](https://github.com/DevManTowhid/typemaster)**  
 - Building a typing speed analyzer with [Tech Stack: e.g., JavaScript, Node.js].  
 - Planned features: Real-time analytics, user progress tracking.  
-### **3. **
+
 ---
 
 ## Work Experience  
