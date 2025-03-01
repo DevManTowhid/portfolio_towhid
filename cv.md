@@ -46,7 +46,13 @@ BSc candidate in **Electrical and Computer Engineering** at Rajshahi University 
 **[GitHub](https://github.com/DevManTowhid/typemaster)**  
 - Building a typing speed analyzer with [Tech Stack: e.g., JavaScript, Node.js].  
 - Planned features: Real-time analytics, user progress tracking.  
-
+### **3. SKetchRefine**
+**[Github](https://github.com/DevManTowhid/SketchRefine)**
+  - Shape Detection: The app captures freehand sketches using HTML5 Canvas and 
+applies numerical methods to detect if the drawing approximates a straight line, circle, or 
+ellipse. 
+  - Shape Refinement: Once a shape is recognized, the app snaps the sketch to a perfect 
+geometric form, turning rough doodles into clean, precise designs.
 ---
 
 ## Work Experience  
@@ -68,4 +74,6 @@ BSc candidate in **Electrical and Computer Engineering** at Rajshahi University 
 - **Bengali** (Native) | **English** (Fluent)  
 
 ---
+
+
 
