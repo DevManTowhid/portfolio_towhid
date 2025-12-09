@@ -75,7 +75,7 @@ geometric form, turning rough doodles into clean, precise designs.
 - specialized on Python Advance for Machine Learning.
 - completed 2 projects
   
-  - Vehicle count and speed calculation (https://github.com/DevManTowhid/vehicle_speed_detection_indutrial_attachement)
+  - Vehicle count and speed calculation [Github](https://github.com/DevManTowhid/vehicle_speed_detection_indutrial_attachement)
   - Digit Classification
 
 
