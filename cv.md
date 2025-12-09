@@ -7,7 +7,7 @@
 ---
 
 ## Professional Summary  
-BSc candidate in **Electrical and Computer Engineering** at Rajshahi University of Engineering & Technology (RUET) with hands-on experience in software development, machine learning, and web technologies. Currently serving as **Assistant Director of Digital Communication Management** at [Nonprofit Name], leveraging technical skills to drive social impact. Passionate about building scalable solutions and data-driven strategies.
+BSc candidate in **Electrical and Computer Engineering** at Rajshahi University of Engineering & Technology (RUET) with hands-on experience in software development, machine learning, and web technologies.
 
 ---
 
