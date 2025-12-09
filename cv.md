@@ -67,8 +67,8 @@ geometric form, turning rough doodles into clean, precise designs.
 - [Add 2-3 bullet points: e.g., "Managed social media campaigns reaching 10K+ followers," "Collaborated on donor engagement strategies"].  
 
 ### **Web Development Projects**  
-- Designed and deployed [specific project name] using [tech stack].  
-- [Add a quantifiable achievement, e.g., "Improved user retention by 30%"].  
+- Designed and deployed specific projects using various tech stack.  
+
 
 ---
 
