@@ -14,14 +14,11 @@ BSc candidate in **Electrical and Computer Engineering** at Rajshahi University 
 ## Education  
 ### **BSc in Electrical and Computer Engineering**  
 **Rajshahi University of Engineering & Technology (RUET)**  
-*Expected Graduation: [Month/Year]*  
-- **Relevant Coursework:** Machine Learning, Embedded Systems, Data Structures, Software Engineering.  
-- **Academic Projects:** [Briefly mention 1-2 key technical projects, e.g., IoT systems, ML models].  
+  
 
 ### **Higher Secondary Certificate (HSC)**  
 **Notre Dame College, Dhaka**  
-*[Month/Year] – [Month/Year]*  
-- GPA: [X.X/4.0 or equivalent]  
+
 
 ---
 
@@ -36,16 +33,20 @@ BSc candidate in **Electrical and Computer Engineering** at Rajshahi University 
 ---
 
 ## Projects  
-### **1. Doctor Appointment System**  
+### **1. Lorenz Chaos Cryptography Engine **
+**[Github]([https://github.com/DevManTowhid/](https://github.com/DevManTowhid/Deterministic-Chaos-A-Non-Linear-Dynamic-System-for-Real-Time-Stream-Cipher-Generation))**
+  -- browser-based application that leverages Deterministic Chaos to generate pseudo-random encryption keys. By solving the Lorenz Differential Equations in real-time, the system demonstrates the "Butterfly Effect"—extreme sensitivity to initial conditions—and utilizes this property to perform XOR Stream Encryption on text data.
+
+  -- This project bridges the gap between Control Systems/Physics and Cybersecurity, visualizing the exact moment two nearly identical systems diverge.
+---
+
+### **2. Doctor Appointment System**  
 **[GitHub](https://github.com/DevManTowhid/doctor-appointment-app)**  
 - Developed a full-stack web app using [Tech Stack: PHP, MySQL, HTML + CSS + JS].  
 - Features: User authentication, appointment scheduling, and real-time notifications.  
 - Impact: Streamlined booking for 100+ users during testing.  
 
-### **2. TypeMaster (In Progress)**  
-**[GitHub](https://github.com/DevManTowhid/typemaster)**  
-- Building a typing speed analyzer with [Tech Stack: e.g., JavaScript, Node.js].  
-- Planned features: Real-time analytics, user progress tracking.  
+
 ### **3. SKetchRefine**
 **[Github](https://github.com/DevManTowhid/SketchRefine)**
   - Shape Detection: The app captures freehand sketches using HTML5 Canvas and 
@@ -55,12 +56,10 @@ ellipse.
 geometric form, turning rough doodles into clean, precise designs.
 ---
 
-### **4. Lorenz Chaos Cryptography Engine **
-**[Github]([https://github.com/DevManTowhid/](https://github.com/DevManTowhid/Deterministic-Chaos-A-Non-Linear-Dynamic-System-for-Real-Time-Stream-Cipher-Generation))**
-  -- browser-based application that leverages Deterministic Chaos to generate pseudo-random encryption keys. By solving the Lorenz Differential Equations in real-time, the system demonstrates the "Butterfly Effect"—extreme sensitivity to initial conditions—and utilizes this property to perform XOR Stream Encryption on text data.
-
-  -- This project bridges the gap between Control Systems/Physics and Cybersecurity, visualizing the exact moment two nearly identical systems diverge.
----
+### **4. TypeMaster (In Progress)**  
+**[GitHub](https://github.com/DevManTowhid/typemaster)**  
+- Building a typing speed analyzer with [Tech Stack: e.g., JavaScript, Node.js].  
+- Planned features: Real-time analytics, user progress tracking.
 
 
 ## Work Experience  
