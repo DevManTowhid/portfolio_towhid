@@ -61,10 +61,6 @@ geometric form, turning rough doodles into clean, precise designs.
 
 
 ## Work Experience  
-### **Assistant Director of Digital Communication Management**  
-**[Giving Tuesday BD Organization]** – Remote/Bangladesh  
-*[Month/Year] – Present*  
-- [Add 2-3 bullet points: e.g., "Managed social media campaigns reaching 10K+ followers," "Collaborated on donor engagement strategies"].  
 
 ### **Web Development Projects**  
 - Designed and deployed specific projects using various tech stack.  
@@ -76,7 +72,7 @@ geometric form, turning rough doodles into clean, precise designs.
 
 
 ## Languages  
-- **Bengali** (Native) | **English** (Fluent)  
+- **Bengali** (Native) | **English** 
 
 ---
 
