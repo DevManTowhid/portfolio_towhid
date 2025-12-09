@@ -4,6 +4,7 @@
 📧 towhidulalam632@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/md-towhidul-alam-59b5b8302/) | 💻 [GitHub](https://github.com/DevManTowhid/)  
 
+
 ---
 
 ## Professional Summary  
@@ -30,6 +31,7 @@ BSc candidate in **Electrical and Computer Engineering** at Rajshahi University 
   - [Python Basics](https://github.com/DevManTowhid/certifications/blob/main/python_basic%20certificate.pdf)  
   - [SQL Basics](https://github.com/DevManTowhid/certifications/blob/main/sql_basic%20certificate.pdf)  
   - [Math For Data Science](https://www.coursera.org/account/accomplishments/verify/FGGA94DF789M?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+  - [Advanced Python for Machine Learning Attachment](https://github.com/DevManTowhid/certifications/blob/main/Towhidul-cert.pdf)
 ---
 
 ## Projects  
@@ -68,13 +70,16 @@ geometric form, turning rough doodles into clean, precise designs.
 
 ## Work Experience  
 
-### **Web Development Projects**  
-- Designed and deployed specific projects using various tech stack.  
+### **Industrial Attachment**
+- 2 weeks Attachment
+- specialized on Python Advance for Machine Learning.
+- completed 2 projects
+  
+  - Vehicle count and speed calculation (https://github.com/DevManTowhid/vehicle_speed_detection_indutrial_attachement)
+  - Digit Classification
 
 
 ---
-
-## Volunteer Experience  
 
 
 ## Languages  
