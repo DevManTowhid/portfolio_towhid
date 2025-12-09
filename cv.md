@@ -59,6 +59,12 @@ geometric form, turning rough doodles into clean, precise designs.
 - Building a typing speed analyzer with [Tech Stack: e.g., JavaScript, Node.js].  
 - Planned features: Real-time analytics, user progress tracking.
 
+### **5. Online Library Management System (In Progress)**  
+**[GitHub](https://github.com/DevManTowhid/online-library-management-system-by-towhid)**  
+
+- **Ongoing Development**: The "online-library-management-system-by-towhid" project is actively being worked on, with continuous enhancements and updates.
+- **Purpose**: The repository aims to provide a comprehensive system for managing an online library, potentially supporting features like user management, book inventory, and lending operations.
+
 
 ## Work Experience  
 
