@@ -52,7 +52,7 @@ applies numerical methods to detect if the drawing approximates a straight line,
 ellipse. 
   - Shape Refinement: Once a shape is recognized, the app snaps the sketch to a perfect 
 geometric form, turning rough doodles into clean, precise designs.
----
+
 
 ### **4. TypeMaster (In Progress)**  
 **[GitHub](https://github.com/DevManTowhid/typemaster)**  
