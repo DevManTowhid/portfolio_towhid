@@ -35,11 +35,9 @@ BSc candidate in **Electrical and Computer Engineering** at Rajshahi University 
 ## Projects  
 ### **1. Lorenz Chaos Cryptography Engine **
 **[Github]([https://github.com/DevManTowhid/](https://github.com/DevManTowhid/Deterministic-Chaos-A-Non-Linear-Dynamic-System-for-Real-Time-Stream-Cipher-Generation))**
-  -- browser-based application that leverages Deterministic Chaos to generate pseudo-random encryption keys. By solving the Lorenz Differential Equations in real-time, the system demonstrates the "Butterfly Effect"—extreme sensitivity to initial conditions—and utilizes this property to perform XOR Stream Encryption on text data.
-
-  -- This project bridges the gap between Control Systems/Physics and Cybersecurity, visualizing the exact moment two nearly identical systems diverge.
----
-
+  - browser-based application that leverages Deterministic Chaos to generate pseudo-random encryption keys. By solving the Lorenz Differential Equations in real-time, the system demonstrates the "Butterfly Effect"—extreme sensitivity to initial conditions—and utilizes this property to perform XOR Stream Encryption on text data.
+- This project bridges the gap between Control Systems/Physics and Cybersecurity, visualizing the exact moment two nearly identical systems diverge.
+  
 ### **2. Doctor Appointment System**  
 **[GitHub](https://github.com/DevManTowhid/doctor-appointment-app)**  
 - Developed a full-stack web app using [Tech Stack: PHP, MySQL, HTML + CSS + JS].  
